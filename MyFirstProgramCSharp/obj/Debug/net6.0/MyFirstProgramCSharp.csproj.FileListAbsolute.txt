@@ -1,0 +1,15 @@
+/Users/newuser/Projects/MyFirstProgramCSharp/MyFirstProgramCSharp/obj/Debug/net6.0/MyFirstProgramCSharp.csproj.AssemblyReference.cache
+/Users/newuser/Projects/MyFirstProgramCSharp/MyFirstProgramCSharp/obj/Debug/net6.0/MyFirstProgramCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newuser/Projects/MyFirstProgramCSharp/MyFirstProgramCSharp/obj/Debug/net6.0/MyFirstProgramCSharp.AssemblyInfoInputs.cache
+/Users/newuser/Projects/MyFirstProgramCSharp/MyFirstProgramCSharp/obj/Debug/net6.0/MyFirstProgramCSharp.AssemblyInfo.cs
+/Users/newuser/Projects/MyFirstProgramCSharp/MyFirstProgramCSharp/obj/Debug/net6.0/MyFirstProgramCSharp.csproj.CoreCompileInputs.cache
+/Users/newuser/Projects/MyFirstProgramCSharp/MyFirstProgramCSharp/bin/Debug/net6.0/MyFirstProgramCSharp
+/Users/newuser/Projects/MyFirstProgramCSharp/MyFirstProgramCSharp/bin/Debug/net6.0/MyFirstProgramCSharp.deps.json
+/Users/newuser/Projects/MyFirstProgramCSharp/MyFirstProgramCSharp/bin/Debug/net6.0/MyFirstProgramCSharp.runtimeconfig.json
+/Users/newuser/Projects/MyFirstProgramCSharp/MyFirstProgramCSharp/bin/Debug/net6.0/MyFirstProgramCSharp.dll
+/Users/newuser/Projects/MyFirstProgramCSharp/MyFirstProgramCSharp/bin/Debug/net6.0/MyFirstProgramCSharp.pdb
+/Users/newuser/Projects/MyFirstProgramCSharp/MyFirstProgramCSharp/obj/Debug/net6.0/MyFirstProgramCSharp.dll
+/Users/newuser/Projects/MyFirstProgramCSharp/MyFirstProgramCSharp/obj/Debug/net6.0/refint/MyFirstProgramCSharp.dll
+/Users/newuser/Projects/MyFirstProgramCSharp/MyFirstProgramCSharp/obj/Debug/net6.0/MyFirstProgramCSharp.pdb
+/Users/newuser/Projects/MyFirstProgramCSharp/MyFirstProgramCSharp/obj/Debug/net6.0/MyFirstProgramCSharp.genruntimeconfig.cache
+/Users/newuser/Projects/MyFirstProgramCSharp/MyFirstProgramCSharp/obj/Debug/net6.0/ref/MyFirstProgramCSharp.dll
