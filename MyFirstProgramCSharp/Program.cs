@@ -1,50 +1,40 @@
-﻿namespace MyFirstProgramCSharp;
+﻿using System.Collections.Generic;
+
+namespace MyFirstProgramCSharp;
 class Program
 {
     static void Main(string[] args)
     {
-        Car car = new Car();
-        Bycicle bycicle = new Bycicle();
-        Boat boat = new Boat();
+        List < Player > players = new List<Player>();
 
-        Vehicle[] vehicles = {car, bycicle, boat};
+        Player player1 = new Player("Alex");
+        Player player2 = new Player("Elisa");
+        Player player3 = new Player("Helen");
 
-        foreach (Vehicle vehicle in vehicles)
+        players.Add(player1);
+        players.Add(player2);
+        players.Add(player3);
+
+
+        foreach (Player player in players)
         {
-            vehicle.Go();
+            Console.WriteLine(player);
         }
-
 
         Console.ReadKey();
     }
 
 }
-class Vehicle
+class Player
 {
-    public virtual void Go()
-    {
+    public String userName;
 
-    }
-
-}
-class Car : Vehicle
-{
-    public override void Go()
+    public Player(String userName)
     {
-        Console.WriteLine("The car is going!");
+        this.userName = userName;
     }
-}
-class Bycicle : Vehicle
-{
-    public override void Go()
+    public override string ToString()
     {
-        Console.WriteLine("The bycicle is going!");
-    }
-}
-class Boat : Vehicle
-{
-    public override void Go()
-    {
-        Console.WriteLine("The boat is going!");
+        return userName;
     }
 }

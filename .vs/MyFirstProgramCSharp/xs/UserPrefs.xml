@@ -1,25 +1,22 @@
 ﻿<Properties StartupConfiguration="{82087D25-ABB6-4B86-A269-5D00E9ED578B}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstProgramCSharp/Program.cs">
     <Files>
-      <File FileName="MyFirstProgramCSharp/Program.cs" Line="22" Column="14" />
+      <File FileName="MyFirstProgramCSharp/Program.cs" Line="33" Column="1" />
+      <File FileName="MyFirstProgramCSharp/Messages.cs" Line="16" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MyFirstProgramCSharp" expanded="True">
-            <Node name="MyFirstProgramCSharp" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="MyFirstProgramCSharp" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.MyFirstProgramCSharp PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
