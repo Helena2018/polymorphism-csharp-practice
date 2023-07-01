@@ -5,36 +5,37 @@ class Program
 {
     static void Main(string[] args)
     {
-        List < Player > players = new List<Player>();
+        Car car = new Car(400);
 
-        Player player1 = new Player("Alex");
-        Player player2 = new Player("Elisa");
-        Player player3 = new Player("Helen");
+        car.Speed = 300;
 
-        players.Add(player1);
-        players.Add(player2);
-        players.Add(player3);
-
-
-        foreach (Player player in players)
-        {
-            Console.WriteLine(player);
-        }
+        Console.WriteLine(car.Speed);
 
         Console.ReadKey();
     }
 
 }
-class Player
+class Car
 {
-    public String userName;
+    private int speed;
 
-    public Player(String userName)
+    public Car(int speed)
     {
-        this.userName = userName;
+        Speed = speed;
     }
-    public override string ToString()
+    public int Speed
     {
-        return userName;
+        get { return speed; }
+        set
+        {
+            if(value > 500)
+            {
+                speed = 500;
+            }
+            else
+            {
+                speed = value;
+            }
+        }
     }
 }
